@@ -10,6 +10,10 @@ Different types of cities include:
 
 Transit ideas:
 - Traditional tunnels take a lot of time and money. What if we could use smaller diameter tunnels for mass transit over large areas. People would have to sit down for the duration of the trip.
+- The outer side of a ring road should be (started as) protected undeveloped land in order help promote cohesive development on the inner side. Eventually, the outer side can be planned with multiple developers to built so that most people don't need to cross that ring road
+- Maybe mass transit at ground-level and pedestrian walkways raised above?
+    - Maybe worry about safety with people falling below?
+    - Meh, perhaps all/only/mostly shops on first floor. Maybe places that typically require reservations on the second floor (doctor, dentist, school/class/meet-ups)
 
 
 Sustainability ideas:
@@ -17,9 +21,6 @@ Sustainability ideas:
 
 
 - Needs: Office, retail, dining, entertainment, housing, schools, recreation, worship, parking
-- Maybe mass transit at ground-level and pedestrian walkways raised above?
-    - Maybe worry about safety with people falling below?
-    - Meh, perhaps all/only/mostly shops on first floor. Maybe places that typically require reservations on the second floor (doctor, dentist, school/class/meet-ups)
 - Ultimate City Building
     - Different (default) floors for
         - shops. Occasional seats for resting.
