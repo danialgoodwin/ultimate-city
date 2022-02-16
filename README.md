@@ -1,5 +1,5 @@
 # ultimate-city
-My ideas for the ultimate city, including architecture, maintenance, walkability, multi-use zones, mass transit
+My ideas for the ultimate city, including: safety, maintenance, walkability (multi-use zones, mass transit), architecture.
 
 
 Different types of cities include:
@@ -30,3 +30,17 @@ Sustainability ideas:
         - Recreation. Gym, ping-pong, board/card games, video games, child play area (plastic playground). Live video feeds 24/7 to see if things are being used or not (low-quality for privacy, at least for publically available video feed).
 - Also keep in mind for first floor:
     - fire station, police, community services, city maintenance, city services, court, water treatment, waste treatment, waste, recycle, 
+- Lots of support for small/local businesses and startups
+- Scattered buildings and spaces that inspire. Regular cost-efficient rectangular buildings mostly.
+- No AirBnb allowed? Tourists should be staying in hotel? Have a tourism center? Tourists should be able to get fully around with public transit
+- Promote sustainable products that don't require electricity
+- Library has hackerspace, including 3D printers
+- 24-hour stores or vending machines
+- Vertical farms
+- Ring road with green belt
+- How to start a car-free neighborhood
+    - Garage (under 24/7 surveillance) somewhere nearby ish.
+    - Handle cases for emergency services and moving services. What about large grocery trips or large furniture?
+- Hexagon organization
+- the night view from above could be a logo. Aka, green areas or water in that formation with no lights. Though parks typically have some lights. Maybe have ones that don't point up, or aren't that bright, or are motion-censored. Maybe good publicity if it was a cool logo
+- surrounded by a cool/interesting full marathon path, which is also wide enough for a service vehicle for the rare trash cans and mile/km markers.
