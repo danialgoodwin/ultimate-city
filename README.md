@@ -34,7 +34,7 @@ Sustainability ideas:
 - Scattered buildings and spaces that inspire. Regular cost-efficient rectangular buildings mostly.
 - No AirBnb allowed? Tourists should be staying in hotel? Have a tourism center? Tourists should be able to get fully around with public transit
 - Promote sustainable products that don't require electricity
-- Library has hackerspace, including 3D printers
+- The library is the makerspace/hackerspace, including 3D printers, and a museum, and a child-care center
 - 24-hour stores or vending machines
 - Vertical farms
 - Ring road with green belt
