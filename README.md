@@ -41,11 +41,12 @@ Sustainability ideas:
 - How to start a car-free neighborhood
     - Garage (under 24/7 surveillance) somewhere nearby ish.
     - Handle cases for emergency services and moving services. What about large grocery trips or large furniture?
-- Hexagon organization
-- the night view from above could be a logo. Aka, green areas or water in that formation with no lights. Though parks typically have some lights. Maybe have ones that don't point up, or aren't that bright, or are motion-censored. Maybe good publicity if it was a cool logo
-- surrounded by a cool/interesting full marathon path, which is also wide enough for a service vehicle for the rare trash cans and mile/km markers.
+- Hexagon organization. Maybe no roads exactly East-West in order to not be blinded by the sun while driving. Another good thing could be there intersections with less cars, maybe easier roundabouts.
+- The night view from above could be a logo. Aka, green areas or water in that formation with no lights. Though parks typically have some lights. Maybe have ones that don't point up, or aren't that bright, or are motion-censored. Maybe good publicity if it was a cool logo
+- Surrounded by a cool/interesting full marathon path, which is also wide enough for a service vehicle for the rare trash cans and mile/km markers.
 - There should probably be multiple ways to each/most destinations so that the alternate routes can be taken if there is an issue (crash, maintainence, etc...)
 Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. Cameras at all intersections. Maybe worth it to use more road/asphalt/concrete and less places for potential collision?
 - Integrated car-share (one standard to manage possibly multiple companies)
-- when cars/driving is efficient, then single lanes will be enough (mostly)
+- When cars/driving is efficient, then single lanes will be enough (mostly)
 - How dense (population) would a building have to be in order to make it more economical to build a parking garage? As opposed to just flat ground parking
+- 
