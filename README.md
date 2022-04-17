@@ -19,6 +19,8 @@ Transit ideas:
 Sustainability ideas:
 - No single-use plastics? Maybe no single-use anything? Each resident would get reuseable containers (example: https://www.barepack.co/)
 
+Government Services:
+- Need to think of what should be controlled by government and what should be privatived. If industries are making too much money, then that's money that could be saved for individuals. For example, health care, housing, health services, education, trash/recycle/waste.
 
 - Needs: Office, retail, dining, entertainment, housing, schools, recreation, worship, parking
 - Ultimate City Building
@@ -49,4 +51,3 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - Integrated car-share (one standard to manage possibly multiple companies)
 - When cars/driving is efficient, then single lanes will be enough (mostly)
 - How dense (population) would a building have to be in order to make it more economical to build a parking garage? As opposed to just flat ground parking
-- 
