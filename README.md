@@ -23,6 +23,7 @@ Government Services:
 - Need to think of what should be controlled by government and what should be privatived. If industries are making too much money, then that's money that could be saved for individuals. For example, health care, housing, health services, education, trash/recycle/waste.
 
 - Needs: Office, retail, dining, entertainment, housing, schools, recreation, worship, parking
+    - Entertainment: private vs team vs quiet vs loud
 - Ultimate City Building
     - Different (default) floors for
         - shops. Occasional seats for resting.
