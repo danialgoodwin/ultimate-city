@@ -3,7 +3,7 @@ What can be done efficiently/cheaply with storage containers? (aka, shipping con
 
 These storage containers can be insulated, climate controlled, and custom fitted with pretty much anything. They can be quicker and cheaper to build than similar alternatives. These containers can withstand a lot of weather and be stacked 9-high.
 
-An example retail area idea. Some floors may be combined depending on the space available
+An example retail area idea. Some floors may be combined depending on the space available. Though, these thoughts aren't limited to storage containers.
 - First floor:
     - High traffic commercial space
     - Restraunt, fast food, coffee/tea shops, 
