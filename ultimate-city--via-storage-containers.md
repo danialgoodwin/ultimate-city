@@ -8,7 +8,7 @@ An example retail area idea. Some floors may be combined depending on the space 
     - High traffic commercial space
     - Restraunt, fast food, coffee/tea shops, 
     - Health services, first aid(?)
-    - Entertainment
+    - Entertainment, playground
     - Vending machines for 24/7 availability of many things
     - Restrooms
 - Second floor:
@@ -16,23 +16,28 @@ An example retail area idea. Some floors may be combined depending on the space 
     - Lowest traffic commercial for repeat customers. Maybe like doctors, dentists
     - Gyms. Half-price for tenants(?)
     - Entertainment
+    - Child-care
 - Third floor:
     - Workspaces, offices, co-working spaces, permanent private offices
     - Exclusive bathrooms for people working here
 - Fourth floor:
     - Affordable housing
-    - Shared bathrooms, showers, kitchen
-    - Maybe heatlh/job services.
+    - Shared bathrooms, showers, kitchen, laundry
+    - Maybe health/job services
     - Shared computer lab with printer
     - Hmmm, any shared spaces? Depends on the price point of this area. Some living floors may have shared spaces, other won't.
 - Fifth floor and above:
     - Living spaces with individual bathrooms, showers, (small) kitchens
     - Extra storage space available for rent for tenants. Lockers, wardrobes, and larger compartmentalized spaces.
     - A few double-wide units for larger families and higher income individuals
+- Roof:
+    - Argovoltaics: Agriculture and solar panels
 - Living space preference will be given to anybody working at this location.
 - Each living space floor will have one storage container dedicated for maintainance
 - TODO: Draw ideas for different levels of available space and target market
 - "Underground" options? Meh. Need to consider costs and geography. Perhaps the main/only benefit is that the area doesn't look at tall.
+- There should definitely be covered walkways
+- Thinking of storage containers as pre-fab, but potentially more plug-and-play and flexible. How to buy or make cheaper versions of storage containers?
 
 
 
