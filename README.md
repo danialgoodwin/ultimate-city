@@ -53,3 +53,4 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - When cars/driving is efficient, then single lanes will be enough (mostly)
 - How dense (population) would a building have to be in order to make it more economical to build a parking garage? As opposed to just flat ground parking
 - Increasing order of efficiency: manually driving personal cars, shared self-driving cars, bus, street car, light rail, metro (or separated lane-dedicated rail)
+- Agrovoltaics: Mixing solar panels with agricultural lands. The idea is that some plants don't need/want full sunlight
