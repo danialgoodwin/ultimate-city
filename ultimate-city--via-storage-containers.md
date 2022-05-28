@@ -65,3 +65,16 @@ Resources:
 - Farming: https://www.freightfarms.com/become-a-freight-farmer
 - Example retail: https://www.connexfw.com/
 - https://www.falconstructures.com/
+
+Existing usages:
+- https://culdesac.com/
+    - Includes a 'Extend your home on demand' program for guest suite or makerspace as examples.
+- https://www.containersongrand.com/
+- https://www.phoenixnewtimes.com/news/ida-on-mckinley-is-tallest-shipping-container-tower-in-north-america-13693917
+    - No designated parking spaces for residents
+- https://www.phoenixnewtimes.com/arts/roosevelt-row-shipping-container-gallery-moving-revolver-records-lot-11308947
+- https://dtphx.org/2018/08/31/get-a-peek-inside-the-churchill-before-you-head-to-its-grand-opening/
+    - Requires each tenant to complete at least four hours of community service each month
+- https://www.phoenixnewtimes.com/news/luke-crosthwaite-and-josh-bleak-crosthwaite-custom-construction-apache-junction-build-shipping-container-tiny-homes-13174876
+
+
