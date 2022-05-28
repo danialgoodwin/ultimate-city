@@ -54,3 +54,7 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - How dense (population) would a building have to be in order to make it more economical to build a parking garage? As opposed to just flat ground parking
 - Increasing order of efficiency: manually driving personal cars, shared self-driving cars, bus, street car, light rail, metro (or separated lane-dedicated rail)
 - Agrovoltaics: Mixing solar panels with agricultural lands. The idea is that some plants don't need/want full sunlight
+- No on-street parking. Loading zones may be available.
+    - Avoid the overcost on residential streets. Low-density housing taxes aren't enough to cover maintenance. Let house-owners decide if they want to have more parking on their lot or not.
+    - Around commercial areas, don't need to slow down other traffic. Wider streets are unfriendly to pedestrians. It is more efficient to share a parking lot/garage with other nearby businesses. Business fronts can then open up directly to a pedestrian-friendly area and get more foot traffic rather than each person only going to places they drive to.
+    - To save costs for parking garages, maybe don't need elevators by having handicap and limited-mobility spots on the first floor.
