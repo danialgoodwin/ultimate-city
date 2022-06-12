@@ -18,9 +18,11 @@ Transit ideas:
 
 Sustainability ideas:
 - No single-use plastics? Maybe no single-use anything? Each resident would get reuseable containers (example: https://www.barepack.co/)
+    - This would likely be impossible to accomplish. But, it could still be heavily compained for and have fees for single-use plastic usage.
 
 Government Services:
 - Need to think of what should be controlled by government and what should be privatived. If industries are making too much money, then that's money that could be saved for individuals. For example, health care, housing, health services, education, trash/recycle/waste.
+- New fees/taxes allocations are decided at the time of creation. Maybe up to 10% that can go to a general fund.
 
 - Needs: Office, retail, dining, entertainment, housing, schools, recreation, worship, parking
     - Entertainment: private vs team vs quiet vs loud
@@ -58,3 +60,4 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
     - Avoid the overcost on residential streets. Low-density housing taxes aren't enough to cover maintenance. Let house-owners decide if they want to have more parking on their lot or not.
     - Around commercial areas, don't need to slow down other traffic. Wider streets are unfriendly to pedestrians. It is more efficient to share a parking lot/garage with other nearby businesses. Business fronts can then open up directly to a pedestrian-friendly area and get more foot traffic rather than each person only going to places they drive to.
     - To save costs for parking garages, maybe don't need elevators by having handicap and limited-mobility spots on the first floor.
+- Akihabara, Japan: https://nebula.app/videos/strange-parts-exploring-akihabara-tokyos-electronics-markets-w-only-in-japan
