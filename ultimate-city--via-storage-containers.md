@@ -77,4 +77,8 @@ Existing usages:
     - Requires each tenant to complete at least four hours of community service each month
 - https://www.phoenixnewtimes.com/news/luke-crosthwaite-and-josh-bleak-crosthwaite-custom-construction-apache-junction-build-shipping-container-tiny-homes-13174876
 
+News:
+- 2022-06-13: https://azbigmedia.com/real-estate/a-look-inside-ida-on-mckinley-shipping-container-housing-project/
+- 2022-06-03: https://www.abc15.com/news/business/shipping-container-complex-paves-way-for-innovative-sustainable-housing-development-in-phoenix
+- 2022-06-02: https://www.wtvr.com/news/local-news/carver-station-plan-june-02-2022
 
