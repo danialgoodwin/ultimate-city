@@ -8,6 +8,7 @@ Different types of cities include:
 - City-within-a-building
 
 
+
 Transit ideas:
 - Traditional tunnels take a lot of time and money. What if we could use smaller diameter tunnels for mass transit over large areas. People would have to sit down for the duration of the trip.
 - The outer side of a ring road should be (started as) protected undeveloped land in order help promote cohesive development on the inner side. Eventually, the outer side can be planned with multiple developers to built so that most people don't need to cross that ring road
@@ -16,9 +17,12 @@ Transit ideas:
     - Meh, perhaps all/only/mostly shops on first floor. Maybe places that typically require reservations on the second floor (doctor, dentist, school/class/meet-ups)
 
 
+
 Sustainability ideas:
 - No single-use plastics? Maybe no single-use anything? Each resident would get reuseable containers (example: https://www.barepack.co/)
-    - This would likely be impossible to accomplish. But, it could still be heavily compained for and have fees for single-use plastic usage.
+    - This would likely be impossible to accomplish. But, it could still be heavily campaigned for and have fees for single-use plastic usage.
+
+
 
 Government Services:
 - Need to think of what should be controlled by government and what should be privatived. If industries are making too much money, then that's money that could be saved for individuals. For example, health care, housing, health services, education, trash/recycle/waste.
