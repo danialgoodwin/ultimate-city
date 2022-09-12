@@ -17,12 +17,35 @@ Afforable housing ideas:
 
 
 
+## Amenities
+- Maybe a built-in desk. Just for affordable housing? Though, everybody could likely find a use for it.
+- Bedroom:
+    - Closet, maybe with some built-in shelves
+- Bathroom:
+    - Shower (maybe bathtub)
+    - Sink
+    - Toilet
+- Kitchen:
+    - Microwave
+    - Pantry
+    - Refrigerator
+    - Sink
+    - Maybe stove/oven (Or, just a large toaster oven?)
+- Maybe just for higher-end units:
+    - Bar seating
+    - Entrance closet
+    - Washer/dryer
+
+
+
 ## Open Questions
 - Should the entrance open to outside or hallway?
     - If hallway, then the other end could have a large window.
     - If outside, then cheaper construction and maintainance costs.
     - If both, then could potentially have a good breeze all the way through the unit.
     - Maybe alternating both? Meh, because couldn't see loud neighbors.
+- Should affordable housing be furnished? Not necessarily. Though, perhaps there is a mostly-free housing alternative homeless that would potentially be more furnished
+
 
 
 
