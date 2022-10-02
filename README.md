@@ -28,6 +28,8 @@ Government Services:
 - Need to think of what should be controlled by government and what should be privatived. If industries are making too much money, then that's money that could be saved for individuals. For example, health care, housing, health services, education, trash/recycle/waste.
 - New fees/taxes allocations are decided at the time of creation. Maybe up to 10% that can go to a general fund.
 
+
+
 - Needs: Office, retail, dining, entertainment, housing, schools, recreation, worship, parking
     - Entertainment: private vs team vs quiet vs loud
 - Ultimate City Building
@@ -38,7 +40,7 @@ Government Services:
         - living. Common area with kitchen, tv(s), games, books
         - Recreation. Gym, ping-pong, board/card games, video games, child play area (plastic playground). Live video feeds 24/7 to see if things are being used or not (low-quality for privacy, at least for publically available video feed).
 - Also keep in mind for first floor:
-    - fire station, police, community services, city maintenance, city services, court, water treatment, waste treatment, waste, recycle, 
+    - fire station, police, community services, city maintenance, city services, court, water treatment, waste treatment, waste, recycle, hospital, amusement park
 - Lots of support for small/local businesses and startups
 - Scattered buildings and spaces that inspire. Regular cost-efficient rectangular buildings mostly.
 - No AirBnb allowed? Tourists should be staying in hotel? Have a tourism center? Tourists should be able to get fully around with public transit
@@ -65,3 +67,7 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
     - Around commercial areas, don't need to slow down other traffic. Wider streets are unfriendly to pedestrians. It is more efficient to share a parking lot/garage with other nearby businesses. Business fronts can then open up directly to a pedestrian-friendly area and get more foot traffic rather than each person only going to places they drive to.
     - To save costs for parking garages, maybe don't need elevators by having handicap and limited-mobility spots on the first floor.
 - Akihabara, Japan: https://nebula.app/videos/strange-parts-exploring-akihabara-tokyos-electronics-markets-w-only-in-japan
+- Maybe a small Kirkland store with just essentials?
+- Extra fees for secondary homes
+- Community Officers
+- Church can be a regular building on the business line. Or, held in conversion center rooms
