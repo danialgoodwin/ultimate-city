@@ -71,3 +71,6 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - Extra fees for secondary homes
 - Community Officers
 - Church can be a regular building on the business line. Or, held in conversion center rooms
+- Places for temporary storefronts, or stalls in the middle of the walkway
+- Should rail be between the businesses so that passengers can see the businesses? Nah, maybe not as 'picturesque'? 
+- Where to put the following: factories (can be in the same line as apartments?), water treatment (small redundancies every 5 km?), sewage treatment, landfill, water tower
