@@ -74,3 +74,5 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - Places for temporary storefronts, or stalls in the middle of the walkway
 - Should rail be between the businesses so that passengers can see the businesses? Nah, maybe not as 'picturesque'? 
 - Where to put the following: factories (can be in the same line as apartments?), water treatment (small redundancies every 5 km?), sewage treatment, landfill, water tower
+- public transportation is free within the town
+- no light pollution 
