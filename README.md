@@ -75,4 +75,10 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - Should rail be between the businesses so that passengers can see the businesses? Nah, maybe not as 'picturesque'? 
 - Where to put the following: factories (can be in the same line as apartments?), water treatment (small redundancies every 5 km?), sewage treatment, landfill, water tower
 - public transportation is free within the town
-- no light pollution 
+- no light pollution, aka make sure light is blocked going upward
+- running/biking loops: 1k, 5k, 10k, 25k
+    - Maybe one of those would be the boundary for the town?
+- create section for recreation, food, tourism, entertainment, night life, tech,
+- public bathrooms. At least for parks, maybe just big holes in the ground? Or porta-potties?
+- When designing, keep fun in mind: https://www.archdaily.com/985771/placemaking-through-play-designing-for-urban-enjoyment
+- Parking fees. Less expensive for long-term parking garage
