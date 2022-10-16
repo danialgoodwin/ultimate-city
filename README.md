@@ -48,7 +48,7 @@ Government Services:
 - The library is the makerspace/hackerspace, including 3D printers, and a museum, and a child-care center
 - 24-hour stores or vending machines
 - Vertical farms
-- Ring road with green belt
+- Ring road with green belt3
 - How to start a car-free neighborhood
     - Garage (under 24/7 surveillance) somewhere nearby ish.
     - Handle cases for emergency services and moving services. What about large grocery trips or large furniture?
@@ -68,9 +68,9 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
     - To save costs for parking garages, maybe don't need elevators by having handicap and limited-mobility spots on the first floor.
 - Akihabara, Japan: https://nebula.app/videos/strange-parts-exploring-akihabara-tokyos-electronics-markets-w-only-in-japan
 - Maybe a small Kirkland store with just essentials?
-- Extra fees for secondary homes
+- Extra fees for secondary (aka, non-primary) homes/residences
 - Community Officers
-- Church can be a regular building on the business line. Or, held in conversion center rooms
+- Church can be a regular building on the business line. Or, held in convention center rooms
 - Places for temporary storefronts, or stalls in the middle of the walkway
 - Should rail be between the businesses so that passengers can see the businesses? Nah, maybe not as 'picturesque'? 
 - Where to put the following: factories (can be in the same line as apartments?), water treatment (small redundancies every 5 km?), sewage treatment, landfill, water tower
@@ -82,3 +82,9 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - public bathrooms. At least for parks, maybe just big holes in the ground? Or porta-potties?
 - When designing, keep fun in mind: https://www.archdaily.com/985771/placemaking-through-play-designing-for-urban-enjoyment
 - Parking fees. Less expensive for long-term parking garage
+- Maybe, each kilometer could be a different architectual style? Voted on by nearby citizens? Maybe, it's okay for them to expand? Don't really want to have rules/zones though.
+    - Since they may be a small town anyways, maybe it's best to choose a single architectural style. Reason: Good for a tourist destination.
+    - Would perhaps be nice to have its own architecture style... maybe with a little Japanese strip mall influence (vs a Las Vegas casino strip mall style).
+        - Idea: Lots of greens? Perhaps looking like a forest tunnel? Hmm, maybe just the 'ceiling'/covering. If using this style, then maybe need to have the main [pedestrian] street winding. The ground can be the red ground seen for pedestrian/biking lanes. Each of the buildings could have a wood-style front (vertical grains?). Need to make sure the real trees don't disrupt biking trails.
+- 
+- 
