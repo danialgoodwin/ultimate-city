@@ -86,5 +86,14 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
     - Since they may be a small town anyways, maybe it's best to choose a single architectural style. Reason: Good for a tourist destination.
     - Would perhaps be nice to have its own architecture style... maybe with a little Japanese strip mall influence (vs a Las Vegas casino strip mall style).
         - Idea: Lots of greens? Perhaps looking like a forest tunnel? Hmm, maybe just the 'ceiling'/covering. If using this style, then maybe need to have the main [pedestrian] street winding. The ground can be the red ground seen for pedestrian/biking lanes. Each of the buildings could have a wood-style front (vertical grains?). Need to make sure the real trees don't disrupt biking trails.
-- 
-- 
+
+
+
+## Resources
+
+- https://www.betterblock.org/: "Better Block Foundation is a 501(c)3 nonprofit that educates, equips, and empowers communities and their leaders to reshape and reactivate built environments to promote the growth of healthy and vibrant neighborhoods."
+
+### Videos
+- A Tale of Two Towns: Car-free vs. Not (Zermatt & St. Moritz): https://nebula.tv/videos/notjustbikes-a-tale-of-two-towns-carfree-vs-not-zermatt-st-moritz
+- How a Building Style is Saving This Town: https://nebula.tv/videos/stewarthicks-how-a-building-style-is-saving-this-town
+
