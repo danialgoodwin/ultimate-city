@@ -86,8 +86,7 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
     - Since they may be a small town anyways, maybe it's best to choose a single architectural style. Reason: Good for a tourist destination.
     - Would perhaps be nice to have its own architecture style... maybe with a little Japanese strip mall influence (vs a Las Vegas casino strip mall style).
         - Idea: Lots of greens? Perhaps looking like a forest tunnel? Hmm, maybe just the 'ceiling'/covering. If using this style, then maybe need to have the main [pedestrian] street winding. The ground can be the red ground seen for pedestrian/biking lanes. Each of the buildings could have a wood-style front (vertical grains?). Need to make sure the real trees don't disrupt biking trails.
-
-
+- Look up Japanese strip malls pictures, and performance.
 
 ## Resources
 
