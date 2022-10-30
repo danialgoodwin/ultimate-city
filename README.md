@@ -87,6 +87,9 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
     - Would perhaps be nice to have its own architecture style... maybe with a little Japanese strip mall influence (vs a Las Vegas casino strip mall style).
         - Idea: Lots of greens? Perhaps looking like a forest tunnel? Hmm, maybe just the 'ceiling'/covering. If using this style, then maybe need to have the main [pedestrian] street winding. The ground can be the red ground seen for pedestrian/biking lanes. Each of the buildings could have a wood-style front (vertical grains?). Need to make sure the real trees don't disrupt biking trails.
 - Look up Japanese strip malls pictures, and performance.
+- Idea: The 'center' shouldn't be the main parks. It may feel too 'crowded'/claustrophobic, maybe too exclusive. It could be better if it takes over a whole block, then all surrounding grids can enjoy it equally. This could make a good argument for a long line of 'park' with grids on either side.
+
+
 
 ## Resources
 
