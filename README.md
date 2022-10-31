@@ -32,6 +32,7 @@ Government Services:
 
 - Needs: Office, retail, dining, entertainment, housing, schools, recreation, worship, parking
     - Entertainment: private vs team vs quiet vs loud
+    - Most needed stores (maybe in order): food/grocery (maybe automated carts), general foods, entertainment, 
 - Ultimate City Building
     - Different (default) floors for
         - shops. Occasional seats for resting.
@@ -88,6 +89,16 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
         - Idea: Lots of greens? Perhaps looking like a forest tunnel? Hmm, maybe just the 'ceiling'/covering. If using this style, then maybe need to have the main [pedestrian] street winding. The ground can be the red ground seen for pedestrian/biking lanes. Each of the buildings could have a wood-style front (vertical grains?). Need to make sure the real trees don't disrupt biking trails.
 - Look up Japanese strip malls pictures, and performance.
 - Idea: The 'center' shouldn't be the main parks. It may feel too 'crowded'/claustrophobic, maybe too exclusive. It could be better if it takes over a whole block, then all surrounding grids can enjoy it equally. This could make a good argument for a long line of 'park' with grids on either side.
+- Maybe higher tax level for luxury goods
+- Building materials should perhaps be wood or concrete that stores a lot of carbon dioxide.
+- Imagine a city if everybody used wheelchairs and bicycles
+- Late night entertainment area near auditorium/stadium. Maybe 24/7 arcades. Maybe either there has to be no nearby residences, or good sound-proofing, or a limit to the sound levels.
+- A mayor (or spokesperson/organizer) for each grid?
+
+
+
+## TODO
+- Search search images for a strip mall, indoor strip mall, futuristic strip mall
 
 
 
