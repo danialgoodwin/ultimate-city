@@ -94,6 +94,7 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - Imagine a city if everybody used wheelchairs and bicycles
 - Late night entertainment area near auditorium/stadium. Maybe 24/7 arcades. Maybe either there has to be no nearby residences, or good sound-proofing, or a limit to the sound levels.
 - A mayor (or spokesperson/organizer) for each grid?
+- Should parking garages be at the center of malls? That way there wouldn't be such a large parking island and the mall could be easier to access for people on foot. Or, I guess the parking garage can just be an attachment. Basically, the idea is to remove all the paved the ground surfaces. Hmm, this may be similar to 16th Street Mall area... Easy to access on foot and no parking spaces to walk around.
 
 
 
