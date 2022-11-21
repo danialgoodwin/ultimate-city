@@ -104,10 +104,15 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 
 
 ## Resources
-
 - https://www.betterblock.org/: "Better Block Foundation is a 501(c)3 nonprofit that educates, equips, and empowers communities and their leaders to reshape and reactivate built environments to promote the growth of healthy and vibrant neighborhoods."
+
+
+### Articles
+- Strong Towns:
+    - https://www.strongtowns.org/journal/2019/2/14/savor-your-small-parcels-and-create-more-of-them: Savor Your Small Parcels, and Create More of Them
+    - https://www.strongtowns.org/journal/2017/9/1/5-stories-proving-manufactured-downtowns-are-a-massive-mistake: 5 Stories Proving Manufactured Downtowns are a Big Mistake
+- https://www.lifemoves.org/homekey/: A Project Homekey Supportive Interim Housing Community
 
 ### Videos
 - A Tale of Two Towns: Car-free vs. Not (Zermatt & St. Moritz): https://nebula.tv/videos/notjustbikes-a-tale-of-two-towns-carfree-vs-not-zermatt-st-moritz
 - How a Building Style is Saving This Town: https://nebula.tv/videos/stewarthicks-how-a-building-style-is-saving-this-town
-
