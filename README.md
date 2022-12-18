@@ -115,6 +115,7 @@ Ultimate City. No/few lights. Allow to manually turn green for safety vehicles. 
 - https://www.lifemoves.org/homekey/: A Project Homekey Supportive Interim Housing Community
 - Plan to Build 15-Minute City for 80,000 People Wins Design Award (source: https://www.treehugger.com/plan-build-15-minute-city-wins-design-award-6754866)
 - Krate, Wesley Chapel’s shipping container park, debuts in June 2022 (source: /www.tampabay.com/news/business/2022/05/31/krate-wesley-chapels-shipping-container-park-debuts-in-june)
+- See How Paint Transforms Failing Buildings…and Cities https://nebula.tv/videos/stewarthicks-see-how-paint-transforms-failing-buildings-and-cities
 
 ### Videos
 - A Tale of Two Towns: Car-free vs. Not (Zermatt & St. Moritz): https://nebula.tv/videos/notjustbikes-a-tale-of-two-towns-carfree-vs-not-zermatt-st-moritz
